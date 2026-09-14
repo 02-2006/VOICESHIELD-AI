@@ -1,0 +1,11 @@
+{
+  "name": "VoiceShield AI",
+  "description": "AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
