@@ -37,11 +37,6 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
           <div className="absolute top-0 right-0 w-96 h-96 bg-gradient-to-bl from-indigo-50/70 via-blue-50/40 to-transparent rounded-full blur-3xl pointer-events-none" />
           
           <div className="relative">
-            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-indigo-50 border border-indigo-200/80 text-indigo-900 text-xs font-bold font-mono mb-5">
-              <span className="w-2 h-2 rounded-full bg-indigo-600 animate-pulse"></span>
-              SMART INDIA HACKATHON 2026 OFFICIAL CYBERSECURITY SYSTEM
-            </div>
-
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-950 tracking-tight leading-[1.12]">
               Detect AI Voice Cloning Attacks <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-blue-600 to-teal-600">
